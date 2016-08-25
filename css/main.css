@@ -1,0 +1,62 @@
+.cancha{
+
+	background-color: #67C787;
+	width: 1000px;
+	height: 500px;
+}
+
+.borde{
+
+	border:2px solid white;
+	width: 950px;
+	height: 450px;
+	position: relative;
+	left:20px; top: 20px;
+
+}
+
+.dentro{
+	border:2px solid white;
+	width: 120px;
+	height: 230px;
+	position: absolute;
+}
+
+.derecha{
+	bottom: 110px; 
+	right: 0;
+	border-right:0;	
+}
+
+.izquierda{
+	bottom: 110px; 
+	border-left:0;
+}
+
+.circulo{
+	border-radius:100px; 
+	width:190px;
+	height:190px;
+	bottom: 130px; 
+	right: 380px;
+
+}
+
+.pelota{
+	position: absolute;
+}
+
+.primera{
+	bottom: 315px;
+ 	left:110px;
+}
+
+.segunda{
+	top: 50px;
+	left: 490px;	
+}
+
+.tercera{
+	bottom: 115px;
+ 	right:126px;
+}
